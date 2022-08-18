@@ -4,7 +4,7 @@ Aprendizado :
 Express: Para lidar com requisições HTTP.
 Middleware para tratamento de exceções e para tratar erros.
 Routes: Redirecionamento para os endereços de controles , do backend que vai executar de fato as funcionalidades , seguindo uma boa prática , usando os cinco métodos para facilitar a organização do código.
-$ Index: Listar tudo.
+Index: Listar tudo.
 Show: Uma informação específica.
 Create: Criar.
 Delete: Deletar.
