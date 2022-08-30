@@ -1,5 +1,5 @@
 {
-  "name": "API_Food_Explorer",
+  "name": "api_backend",
   "version": "1.0.0",
   "description": "API desenvolvida no progama EXPLORER",
   "main": "index.js",
